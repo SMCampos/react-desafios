@@ -1,9 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
 # dependencies
 /node_modules
-./expense-tracker/node_modules
-./gallery/node_modules
-./todo/node_modules
-./rpg/node_modules
 /.pnp
 .pnp.js
 
