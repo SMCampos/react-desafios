@@ -15,7 +15,7 @@ Abra essa pasta no Visual Studio Code - VS Code.
 
 No terminal integrado do VS Code digite o comando:  \
 
-`npm create-react-app gallery --template typescript`
+`npx create-react-app gallery --template typescript`
 
 O projeto será criado com as estruturas de pastas padrão do React
 

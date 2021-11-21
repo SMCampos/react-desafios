@@ -1,4 +1,4 @@
-# Projeto TOdo - Lista de Tarefas
+# Projeto Todo - Lista de Tarefas
 
 O projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,7 +8,7 @@ Abra essa pasta no Visual Studio Code - VS Code.
 
 No terminal integrado do VS Code digite o comando: \
 
-`npm create-react-app todo --template typescript`
+`npx create-react-app todo --template typescript`
 
 O projeto será criado com as estruturas de pastas padrão do React
 

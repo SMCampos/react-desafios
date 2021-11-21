@@ -1,6 +1,6 @@
 # Projeto Expanse Tracker - Controle de Gastos
 
-O proejto foi criado com [Create React App](https://github.com/facebook/create-react-app).
+O projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
 
 Crie uma pasta no seu HD, no seu local de preferência.
 
@@ -8,7 +8,7 @@ Abra essa pasta no Visual Studio Code - VS Code.
 
 No terminal integrado do VS Code digite o comando: \
 
-`npm create-react-app expense-tracker --template typescript`
+`npx create-react-app expense-tracker --template typescript`
 
 O projeto será criado com as estruturas de pastas padrão do React
 
