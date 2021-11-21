@@ -1,4 +1,4 @@
-### Projetos desenvolvidos durante a semas Desafio React 5 promovida pela [B7Web](https://b7web.com.br/d5)
+### Projetos desenvolvidos durante a semana Desafio React 5 promovida pela [B7Web](https://b7web.com.br/d5)
 
 ***Tecnologias Utilizadas***
 
